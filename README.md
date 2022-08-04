@@ -24,3 +24,7 @@ It is beneficial that you take advantage of the resources presented to you, but 
 
 ## Questions
 If you have any questions regarding setup or on any of the learning modules, head over to the [GitHub Education Community](https://education.github.community/c/teachers/advisors) for assistance.
+
+
+
+Connor Brethauer
